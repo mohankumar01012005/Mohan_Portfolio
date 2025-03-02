@@ -117,7 +117,7 @@ export function ContactSection() {
                   </motion.div>
 
                   <motion.div variants={childVariants}>
-                    <Label htmlFor="email" className="text-primary">Email</Label>
+                    <Label htmlFor="email" className="text-primary">Email (yours)</Label>
                     <Input
                       id="email"
                       name="email"
